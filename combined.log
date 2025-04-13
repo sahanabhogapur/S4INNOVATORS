@@ -1,0 +1,541 @@
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T22:19:29.575Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T22:19:29.578Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T22:19:29.648Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-12T22:19:29.654Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-12T22:19:29.654Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-12T22:19:29.655Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-12T22:19:29.655Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-12T22:19:29.655Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-12T22:19:29.656Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-12T22:19:29.656Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-12T22:19:29.657Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-12T22:19:29.657Z"}
+{"level":"warn","message":"404: GET /api/budget/1","timestamp":"2025-04-12T22:20:09.153Z"}
+{"level":"info","message":"GET /api/budget/1 404 5.959 ms - 1042","timestamp":"2025-04-12T22:20:09.162Z"}
+{"level":"info","message":"GET /api/budget/1 - 11.45ms","timestamp":"2025-04-12T22:20:09.162Z"}
+{"level":"warn","message":"404: GET /api/budget/1/category-summary","timestamp":"2025-04-12T22:20:09.170Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 404 1.744 ms - 1076","timestamp":"2025-04-12T22:20:09.171Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 2.70ms","timestamp":"2025-04-12T22:20:09.172Z"}
+{"level":"warn","message":"404: GET /api/budget/1/monthly-summary","timestamp":"2025-04-12T22:20:09.174Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 404 1.651 ms - 1074","timestamp":"2025-04-12T22:20:09.175Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 2.87ms","timestamp":"2025-04-12T22:20:09.176Z"}
+{"level":"warn","message":"404: GET /api/budget/1/recommendations","timestamp":"2025-04-12T22:20:09.179Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 404 1.949 ms - 1074","timestamp":"2025-04-12T22:20:09.181Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 3.28ms","timestamp":"2025-04-12T22:20:09.181Z"}
+{"level":"warn","message":"404: GET /api/budget/1","timestamp":"2025-04-12T22:20:09.185Z"}
+{"level":"info","message":"GET /api/budget/1 404 2.281 ms - 1042","timestamp":"2025-04-12T22:20:09.187Z"}
+{"level":"info","message":"GET /api/budget/1 - 4.05ms","timestamp":"2025-04-12T22:20:09.188Z"}
+{"level":"warn","message":"404: GET /api/budget/1/category-summary","timestamp":"2025-04-12T22:20:09.192Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 404 1.910 ms - 1076","timestamp":"2025-04-12T22:20:09.194Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 3.72ms","timestamp":"2025-04-12T22:20:09.195Z"}
+{"level":"warn","message":"404: GET /api/budget/1/monthly-summary","timestamp":"2025-04-12T22:20:09.198Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 404 1.824 ms - 1074","timestamp":"2025-04-12T22:20:09.200Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 3.70ms","timestamp":"2025-04-12T22:20:09.201Z"}
+{"level":"warn","message":"404: GET /api/budget/1/recommendations","timestamp":"2025-04-12T22:20:09.204Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 404 1.624 ms - 1074","timestamp":"2025-04-12T22:20:09.206Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 3.13ms","timestamp":"2025-04-12T22:20:09.207Z"}
+{"level":"warn","message":"404: GET /api/budget/1","timestamp":"2025-04-12T22:20:19.733Z"}
+{"level":"info","message":"GET /api/budget/1 404 1.910 ms - 1042","timestamp":"2025-04-12T22:20:19.735Z"}
+{"level":"info","message":"GET /api/budget/1 - 3.71ms","timestamp":"2025-04-12T22:20:19.736Z"}
+{"level":"warn","message":"404: GET /api/budget/1/category-summary","timestamp":"2025-04-12T22:20:19.739Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 404 1.352 ms - 1076","timestamp":"2025-04-12T22:20:19.740Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 2.38ms","timestamp":"2025-04-12T22:20:19.741Z"}
+{"level":"warn","message":"404: GET /api/budget/1/monthly-summary","timestamp":"2025-04-12T22:20:19.743Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 404 1.667 ms - 1074","timestamp":"2025-04-12T22:20:19.745Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 2.91ms","timestamp":"2025-04-12T22:20:19.745Z"}
+{"level":"warn","message":"404: GET /api/budget/1/recommendations","timestamp":"2025-04-12T22:20:19.748Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 404 1.196 ms - 1074","timestamp":"2025-04-12T22:20:19.749Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 1.86ms","timestamp":"2025-04-12T22:20:19.750Z"}
+{"level":"warn","message":"404: GET /api/budget/1","timestamp":"2025-04-12T22:20:19.753Z"}
+{"level":"info","message":"GET /api/budget/1 404 1.403 ms - 1042","timestamp":"2025-04-12T22:20:19.754Z"}
+{"level":"info","message":"GET /api/budget/1 - 2.33ms","timestamp":"2025-04-12T22:20:19.755Z"}
+{"level":"warn","message":"404: GET /api/budget/1/category-summary","timestamp":"2025-04-12T22:20:19.756Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 404 1.244 ms - 1076","timestamp":"2025-04-12T22:20:19.758Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 2.24ms","timestamp":"2025-04-12T22:20:19.758Z"}
+{"level":"warn","message":"404: GET /api/budget/1/monthly-summary","timestamp":"2025-04-12T22:20:19.760Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 404 1.702 ms - 1074","timestamp":"2025-04-12T22:20:19.762Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 2.76ms","timestamp":"2025-04-12T22:20:19.762Z"}
+{"level":"warn","message":"404: GET /api/budget/1/recommendations","timestamp":"2025-04-12T22:20:19.764Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 404 1.708 ms - 1074","timestamp":"2025-04-12T22:20:19.766Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 2.53ms","timestamp":"2025-04-12T22:20:19.767Z"}
+{"level":"warn","message":"404: GET /api/budget/1","timestamp":"2025-04-12T22:22:09.627Z"}
+{"level":"info","message":"GET /api/budget/1 404 2.873 ms - 1010","timestamp":"2025-04-12T22:22:09.630Z"}
+{"level":"info","message":"GET /api/budget/1 - 4.65ms","timestamp":"2025-04-12T22:22:09.631Z"}
+{"level":"warn","message":"404: GET /api/budget/1/category-summary","timestamp":"2025-04-12T22:22:09.635Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 404 2.108 ms - 1044","timestamp":"2025-04-12T22:22:09.637Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 4.04ms","timestamp":"2025-04-12T22:22:09.638Z"}
+{"level":"warn","message":"404: GET /api/budget/1/monthly-summary","timestamp":"2025-04-12T22:22:09.641Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 404 1.744 ms - 1042","timestamp":"2025-04-12T22:22:09.642Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 2.54ms","timestamp":"2025-04-12T22:22:09.643Z"}
+{"level":"warn","message":"404: GET /api/budget/1/recommendations","timestamp":"2025-04-12T22:22:09.645Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 404 1.436 ms - 1042","timestamp":"2025-04-12T22:22:09.646Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 2.46ms","timestamp":"2025-04-12T22:22:09.647Z"}
+{"level":"warn","message":"404: GET /api/budget/1","timestamp":"2025-04-12T22:22:09.649Z"}
+{"level":"info","message":"GET /api/budget/1 404 1.418 ms - 1010","timestamp":"2025-04-12T22:22:09.650Z"}
+{"level":"info","message":"GET /api/budget/1 - 2.51ms","timestamp":"2025-04-12T22:22:09.651Z"}
+{"level":"warn","message":"404: GET /api/budget/1/category-summary","timestamp":"2025-04-12T22:22:09.653Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 404 1.509 ms - 1044","timestamp":"2025-04-12T22:22:09.656Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 3.67ms","timestamp":"2025-04-12T22:22:09.656Z"}
+{"level":"warn","message":"404: GET /api/budget/1/monthly-summary","timestamp":"2025-04-12T22:22:09.659Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 404 1.363 ms - 1042","timestamp":"2025-04-12T22:22:09.660Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 2.50ms","timestamp":"2025-04-12T22:22:09.661Z"}
+{"level":"warn","message":"404: GET /api/budget/1/recommendations","timestamp":"2025-04-12T22:22:09.663Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 404 1.788 ms - 1042","timestamp":"2025-04-12T22:22:09.665Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 2.89ms","timestamp":"2025-04-12T22:22:09.666Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T22:25:15.068Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T22:25:15.071Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T22:25:15.126Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-12T22:25:15.131Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-12T22:25:15.132Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-12T22:25:15.133Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-12T22:25:15.133Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-12T22:25:15.133Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-12T22:25:15.134Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-12T22:25:15.134Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-12T22:25:15.135Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-12T22:25:15.135Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T22:25:18.398Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T22:25:18.401Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T22:25:18.456Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T22:27:16.824Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T22:27:16.829Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T22:27:16.913Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 200 10.764 ms - 153","timestamp":"2025-04-12T22:28:52.192Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 15.68ms","timestamp":"2025-04-12T22:28:52.193Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 200 152.392 ms - 226","timestamp":"2025-04-12T22:28:52.352Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 153.30ms","timestamp":"2025-04-12T22:28:52.352Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 200 1.786 ms - 240","timestamp":"2025-04-12T22:28:52.356Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 2.77ms","timestamp":"2025-04-12T22:28:52.357Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 304 0.913 ms - -","timestamp":"2025-04-12T22:28:52.360Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 1.98ms","timestamp":"2025-04-12T22:28:52.360Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 304 6.157 ms - -","timestamp":"2025-04-12T22:28:52.369Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 7.28ms","timestamp":"2025-04-12T22:28:52.369Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 304 0.746 ms - -","timestamp":"2025-04-12T22:28:52.373Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 1.66ms","timestamp":"2025-04-12T22:28:52.374Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 304 4.215 ms - -","timestamp":"2025-04-12T22:28:52.380Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 4.86ms","timestamp":"2025-04-12T22:28:52.381Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 304 1.047 ms - -","timestamp":"2025-04-12T22:28:52.384Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 1.94ms","timestamp":"2025-04-12T22:28:52.384Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 304 5.727 ms - -","timestamp":"2025-04-12T22:28:52.392Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 7.35ms","timestamp":"2025-04-12T22:28:52.393Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 304 1.309 ms - -","timestamp":"2025-04-12T22:28:52.397Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 2.73ms","timestamp":"2025-04-12T22:28:52.398Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 304 1.045 ms - -","timestamp":"2025-04-12T22:28:52.402Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 2.23ms","timestamp":"2025-04-12T22:28:52.403Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 304 1.104 ms - -","timestamp":"2025-04-12T22:28:52.407Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 2.79ms","timestamp":"2025-04-12T22:28:52.407Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T22:31:21.664Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T22:31:21.669Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T22:31:21.737Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-12T22:31:21.743Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-12T22:31:21.743Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-12T22:31:21.744Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-12T22:31:21.745Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-12T22:31:21.745Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-12T22:31:21.746Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-12T22:31:21.747Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-12T22:31:21.747Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-12T22:31:21.748Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 304 10.786 ms - -","timestamp":"2025-04-12T22:31:34.186Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 12.86ms","timestamp":"2025-04-12T22:31:34.187Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 304 1.616 ms - -","timestamp":"2025-04-12T22:31:34.193Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 2.94ms","timestamp":"2025-04-12T22:31:34.193Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 304 37.192 ms - -","timestamp":"2025-04-12T22:31:34.234Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 37.87ms","timestamp":"2025-04-12T22:31:34.234Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 304 1.961 ms - -","timestamp":"2025-04-12T22:31:34.238Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 2.59ms","timestamp":"2025-04-12T22:31:34.239Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 304 3.480 ms - -","timestamp":"2025-04-12T22:31:34.244Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 4.46ms","timestamp":"2025-04-12T22:31:34.245Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 304 1.272 ms - -","timestamp":"2025-04-12T22:31:34.249Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 2.26ms","timestamp":"2025-04-12T22:31:34.250Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 304 1.266 ms - -","timestamp":"2025-04-12T22:32:23.921Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 2.79ms","timestamp":"2025-04-12T22:32:23.922Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 304 2.853 ms - -","timestamp":"2025-04-12T22:32:23.928Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 3.54ms","timestamp":"2025-04-12T22:32:23.929Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 304 1.094 ms - -","timestamp":"2025-04-12T22:32:23.932Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 2.16ms","timestamp":"2025-04-12T22:32:23.933Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary 304 2.245 ms - -","timestamp":"2025-04-12T22:32:23.937Z"}
+{"level":"info","message":"GET /api/budget/1/monthly-summary - 3.13ms","timestamp":"2025-04-12T22:32:23.938Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations 304 0.882 ms - -","timestamp":"2025-04-12T22:32:23.940Z"}
+{"level":"info","message":"GET /api/budget/1/recommendations - 1.79ms","timestamp":"2025-04-12T22:32:23.941Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary 304 0.606 ms - -","timestamp":"2025-04-12T22:32:23.944Z"}
+{"level":"info","message":"GET /api/budget/1/category-summary - 1.50ms","timestamp":"2025-04-12T22:32:23.944Z"}
+{"level":"info","message":"OPTIONS /api/auth/me 204 0.372 ms - 0","timestamp":"2025-04-12T22:32:35.890Z"}
+{"level":"info","message":"OPTIONS /api/auth/me 204 0.323 ms - 0","timestamp":"2025-04-12T22:32:35.895Z"}
+{"level":"warn","message":"404: GET /api/auth/me","timestamp":"2025-04-12T22:32:35.898Z"}
+{"level":"info","message":"GET /api/auth/me 404 2.388 ms - 1076","timestamp":"2025-04-12T22:32:35.901Z"}
+{"level":"info","message":"GET /api/auth/me - 5.26ms","timestamp":"2025-04-12T22:32:35.902Z"}
+{"level":"warn","message":"404: GET /api/auth/me","timestamp":"2025-04-12T22:32:35.904Z"}
+{"level":"info","message":"GET /api/auth/me 404 1.455 ms - 1076","timestamp":"2025-04-12T22:32:35.906Z"}
+{"level":"info","message":"GET /api/auth/me - 2.73ms","timestamp":"2025-04-12T22:32:35.906Z"}
+{"level":"info","message":"OPTIONS /api/auth/login 204 0.230 ms - 0","timestamp":"2025-04-12T22:34:49.374Z"}
+{"level":"info","message":"POST /api/auth/login 400 67.874 ms - 33","timestamp":"2025-04-12T22:34:49.445Z"}
+{"level":"info","message":"POST /login - 39.68ms","timestamp":"2025-04-12T22:34:49.446Z"}
+{"level":"info","message":"POST /api/auth/login 400 13.575 ms - 33","timestamp":"2025-04-12T22:34:51.531Z"}
+{"level":"info","message":"POST /login - 15.15ms","timestamp":"2025-04-12T22:34:51.536Z"}
+{"level":"info","message":"OPTIONS /api/auth/register 204 0.254 ms - 0","timestamp":"2025-04-12T22:35:00.449Z"}
+{"level":"info","message":"POST /api/auth/register 400 9.092 ms - 189","timestamp":"2025-04-12T22:35:00.462Z"}
+{"level":"info","message":"POST /register - 7.17ms","timestamp":"2025-04-12T22:35:00.463Z"}
+{"level":"info","message":"POST /api/auth/register 429 1.773 ms - 47","timestamp":"2025-04-12T22:35:06.533Z"}
+{"level":"info","message":"POST /register - 2.89ms","timestamp":"2025-04-12T22:35:06.534Z"}
+{"level":"info","message":"POST /api/auth/register 429 1.863 ms - 47","timestamp":"2025-04-12T22:35:08.929Z"}
+{"level":"info","message":"POST /register - 2.10ms","timestamp":"2025-04-12T22:35:08.930Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.604 ms - 47","timestamp":"2025-04-12T22:37:34.169Z"}
+{"level":"info","message":"POST /login - 4.68ms","timestamp":"2025-04-12T22:37:34.172Z"}
+{"level":"info","message":"POST /api/auth/login 429 0.912 ms - 47","timestamp":"2025-04-12T22:38:12.589Z"}
+{"level":"info","message":"POST /login - 1.72ms","timestamp":"2025-04-12T22:38:12.589Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.718 ms - 47","timestamp":"2025-04-12T22:38:20.613Z"}
+{"level":"info","message":"POST /login - 2.45ms","timestamp":"2025-04-12T22:38:20.614Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.735 ms - 47","timestamp":"2025-04-12T22:38:31.855Z"}
+{"level":"info","message":"POST /login - 1.89ms","timestamp":"2025-04-12T22:38:31.856Z"}
+{"level":"info","message":"POST /api/auth/login 429 0.873 ms - 47","timestamp":"2025-04-12T22:38:33.445Z"}
+{"level":"info","message":"POST /login - 1.28ms","timestamp":"2025-04-12T22:38:33.446Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.173 ms - 47","timestamp":"2025-04-12T22:38:33.795Z"}
+{"level":"info","message":"POST /login - 2.03ms","timestamp":"2025-04-12T22:38:33.795Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.469 ms - 47","timestamp":"2025-04-12T22:38:34.270Z"}
+{"level":"info","message":"POST /login - 1.90ms","timestamp":"2025-04-12T22:38:34.271Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T22:56:15.841Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T22:56:15.847Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T22:56:15.917Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T23:00:37.758Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T23:00:37.762Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T23:00:37.836Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-12T23:00:37.843Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-12T23:00:37.844Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-12T23:00:37.845Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-12T23:00:37.845Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-12T23:00:37.846Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-12T23:00:37.846Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-12T23:00:37.847Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-12T23:00:37.848Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-12T23:00:37.848Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T23:16:47.083Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T23:16:47.088Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T23:16:47.160Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:601:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-12T23:16:47.166Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-12T23:16:47.167Z"}
+{"level":"warn","message":"⚠️ MongoDB disconnected","timestamp":"2025-04-12T23:16:47.175Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T23:17:07.588Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T23:17:07.593Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T23:17:07.668Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:601:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-12T23:17:07.675Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-12T23:17:07.676Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-12T23:21:38.276Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-12T23:21:38.281Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-12T23:21:38.356Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:601:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-12T23:21:38.362Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-12T23:21:38.364Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:32:12.450Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:32:12.454Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:32:12.510Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T00:32:12.516Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T00:32:12.517Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T00:32:12.517Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T00:32:12.518Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T00:32:12.518Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T00:32:12.518Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T00:32:12.519Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T00:32:12.520Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T00:32:12.520Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:32:21.718Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:32:21.722Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:32:21.773Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:601:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-13T00:32:21.778Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T00:32:21.779Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:39:33.961Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:39:33.967Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:39:34.049Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:601:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-13T00:39:34.055Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T00:39:34.057Z"}
+{"level":"info","message":"OPTIONS /api/auth/register 204 1.335 ms - 0","timestamp":"2025-04-13T00:44:02.372Z"}
+{"level":"info","message":"POST /api/auth/register 400 33.748 ms - 189","timestamp":"2025-04-13T00:44:02.410Z"}
+{"level":"info","message":"POST /register - 13.51ms","timestamp":"2025-04-13T00:44:02.411Z"}
+{"level":"info","message":"POST /api/auth/register 400 3.528 ms - 98","timestamp":"2025-04-13T00:44:08.942Z"}
+{"level":"info","message":"POST /register - 3.80ms","timestamp":"2025-04-13T00:44:08.943Z"}
+{"level":"info","message":"POST /api/auth/register 400 4.290 ms - 98","timestamp":"2025-04-13T00:44:11.173Z"}
+{"level":"info","message":"POST /register - 5.29ms","timestamp":"2025-04-13T00:44:11.173Z"}
+{"level":"info","message":"POST /api/auth/register 400 2.891 ms - 98","timestamp":"2025-04-13T00:44:13.174Z"}
+{"level":"info","message":"POST /register - 4.04ms","timestamp":"2025-04-13T00:44:13.175Z"}
+{"level":"info","message":"OPTIONS /api/auth/login 204 0.240 ms - 0","timestamp":"2025-04-13T00:44:32.109Z"}
+{"level":"info","message":"POST /api/auth/login 400 45.819 ms - 33","timestamp":"2025-04-13T00:44:32.161Z"}
+{"level":"info","message":"POST /login - 49.81ms","timestamp":"2025-04-13T00:44:32.164Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.390 ms - 47","timestamp":"2025-04-13T00:44:56.437Z"}
+{"level":"info","message":"POST /login - 2.49ms","timestamp":"2025-04-13T00:44:56.438Z"}
+{"level":"info","message":"POST /api/auth/login 429 3.078 ms - 47","timestamp":"2025-04-13T00:44:58.611Z"}
+{"level":"info","message":"POST /login - 5.51ms","timestamp":"2025-04-13T00:44:58.614Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.927 ms - 47","timestamp":"2025-04-13T00:45:00.419Z"}
+{"level":"info","message":"POST /login - 2.61ms","timestamp":"2025-04-13T00:45:00.420Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:45:57.935Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:45:57.939Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:45:57.996Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T00:45:58.001Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T00:45:58.002Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T00:45:58.003Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T00:45:58.004Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T00:45:58.004Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T00:45:58.005Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T00:45:58.006Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T00:45:58.006Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T00:45:58.007Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:45:59.580Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:45:59.584Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:45:59.631Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:601:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-13T00:45:59.636Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T00:45:59.637Z"}
+{"level":"warn","message":"⚠️ MongoDB disconnected","timestamp":"2025-04-13T00:45:59.651Z"}
+{"level":"info","message":"OPTIONS /api/auth/login 204 1.390 ms - 0","timestamp":"2025-04-13T00:46:57.446Z"}
+{"level":"info","message":"POST /api/auth/login 400 56.662 ms - 33","timestamp":"2025-04-13T00:46:57.507Z"}
+{"level":"info","message":"POST /login - 36.25ms","timestamp":"2025-04-13T00:46:57.508Z"}
+{"level":"info","message":"POST /api/auth/login 400 7.024 ms - 33","timestamp":"2025-04-13T00:46:59.951Z"}
+{"level":"info","message":"POST /login - 8.55ms","timestamp":"2025-04-13T00:46:59.953Z"}
+{"level":"info","message":"POST /api/auth/login 400 4.184 ms - 33","timestamp":"2025-04-13T00:47:00.992Z"}
+{"level":"info","message":"POST /login - 4.46ms","timestamp":"2025-04-13T00:47:00.992Z"}
+{"level":"info","message":"POST /api/auth/login 400 3.995 ms - 33","timestamp":"2025-04-13T00:47:01.538Z"}
+{"level":"info","message":"POST /login - 4.22ms","timestamp":"2025-04-13T00:47:01.539Z"}
+{"level":"info","message":"POST /api/auth/login 400 3.080 ms - 33","timestamp":"2025-04-13T00:47:01.942Z"}
+{"level":"info","message":"POST /login - 3.93ms","timestamp":"2025-04-13T00:47:01.942Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.323 ms - 47","timestamp":"2025-04-13T00:48:28.637Z"}
+{"level":"info","message":"POST /login - 2.04ms","timestamp":"2025-04-13T00:48:28.637Z"}
+{"level":"info","message":"POST /api/auth/login 429 1.343 ms - 47","timestamp":"2025-04-13T00:51:18.141Z"}
+{"level":"info","message":"POST /login - 3.65ms","timestamp":"2025-04-13T00:51:18.143Z"}
+{"level":"info","message":"POST /api/auth/login 429 2.119 ms - 47","timestamp":"2025-04-13T00:51:19.711Z"}
+{"level":"info","message":"POST /login - 2.53ms","timestamp":"2025-04-13T00:51:19.712Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:52:21.222Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:52:21.227Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:52:21.301Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T00:52:21.310Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T00:52:21.310Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T00:52:21.311Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T00:52:21.312Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T00:52:21.312Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T00:52:21.313Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T00:52:21.314Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T00:52:21.322Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T00:52:21.323Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:52:23.194Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:52:23.198Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:52:23.283Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:601:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-13T00:52:23.291Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T00:52:23.293Z"}
+{"level":"info","message":"OPTIONS /api/auth/login 204 1.840 ms - 0","timestamp":"2025-04-13T00:55:04.059Z"}
+{"level":"info","message":"POST /api/auth/login 400 50.518 ms - 33","timestamp":"2025-04-13T00:55:04.113Z"}
+{"level":"info","message":"POST /login - 28.06ms","timestamp":"2025-04-13T00:55:04.114Z"}
+{"level":"info","message":"POST /api/auth/login 400 8.333 ms - 33","timestamp":"2025-04-13T00:55:05.753Z"}
+{"level":"info","message":"POST /login - 8.43ms","timestamp":"2025-04-13T00:55:05.753Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:56:30.179Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:56:30.184Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:56:30.265Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T00:56:30.275Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T00:56:30.276Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T00:56:30.277Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T00:56:30.278Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T00:56:30.279Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T00:56:30.280Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T00:56:30.281Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T00:56:30.282Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T00:56:30.282Z"}
+{"level":"info","message":"POST /api/auth/login 400 51.531 ms - 33","timestamp":"2025-04-13T00:56:32.989Z"}
+{"level":"info","message":"POST /login - 29.87ms","timestamp":"2025-04-13T00:56:32.990Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T00:56:36.800Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T00:56:36.804Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T00:56:36.878Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:601:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-13T00:56:36.884Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T00:56:36.886Z"}
+{"level":"warn","message":"⚠️ MongoDB disconnected","timestamp":"2025-04-13T00:56:36.894Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:00:52.392Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:00:52.407Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:00:52.531Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T01:00:52.541Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T01:00:52.542Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T01:00:52.543Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T01:00:52.545Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T01:00:52.546Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T01:00:52.547Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T01:00:52.549Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T01:00:52.550Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T01:00:52.551Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:07:03.675Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:07:03.681Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:07:03.755Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T01:07:03.763Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T01:07:03.764Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T01:07:03.765Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T01:07:03.765Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T01:07:03.766Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T01:07:03.767Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T01:07:03.768Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T01:07:03.769Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T01:07:03.769Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:11:07.407Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:11:07.414Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:11:07.501Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T01:11:07.507Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T01:11:07.508Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T01:11:07.508Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T01:11:07.509Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T01:11:07.509Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T01:11:07.509Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T01:11:07.510Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T01:11:07.510Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T01:11:07.511Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:16:10.495Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:16:10.500Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:16:10.575Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T01:16:10.582Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T01:16:10.583Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T01:16:10.584Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T01:16:10.585Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T01:16:10.586Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T01:16:10.587Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T01:16:10.588Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T01:16:10.589Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T01:16:10.589Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:25:59.702Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:25:59.707Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:25:59.788Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T01:25:59.794Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T01:25:59.794Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T01:25:59.795Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T01:25:59.796Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T01:25:59.797Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T01:25:59.798Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T01:25:59.800Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T01:25:59.801Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T01:25:59.801Z"}
+{"level":"warn","message":"404: GET /api/recommendations/1","timestamp":"2025-04-13T01:32:20.668Z"}
+{"level":"info","message":"GET /api/recommendations/1 404 8.767 ms - 1060","timestamp":"2025-04-13T01:32:20.680Z"}
+{"level":"info","message":"GET /api/recommendations/1 - 13.85ms","timestamp":"2025-04-13T01:32:20.681Z"}
+{"level":"warn","message":"404: GET /api/recommendations/1","timestamp":"2025-04-13T01:32:20.684Z"}
+{"level":"info","message":"GET /api/recommendations/1 404 1.438 ms - 1060","timestamp":"2025-04-13T01:32:20.686Z"}
+{"level":"info","message":"GET /api/recommendations/1 - 2.38ms","timestamp":"2025-04-13T01:32:20.687Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:56:45.461Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:56:45.468Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:56:45.574Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T01:56:45.583Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T01:56:45.584Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T01:56:45.585Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T01:56:45.586Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T01:56:45.586Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T01:56:45.587Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T01:56:45.588Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T01:56:45.589Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T01:56:45.590Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:57:32.078Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:57:32.082Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:57:32.170Z"}
+{"level":"error","message":"Uncaught Exception: port is not defined","stack":"ReferenceError: port is not defined\n    at Server.<anonymous> (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:641:29)\n    at Server.emit (node:events:518:28)\n    at emitErrorNT (node:net:1973:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2025-04-13T01:57:32.179Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T01:57:32.181Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:58:44.954Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:58:44.958Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:58:45.020Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T01:58:45.027Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T01:58:45.028Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T01:58:45.029Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T01:58:45.030Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T01:58:45.030Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T01:58:45.031Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T01:58:45.032Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T01:58:45.033Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T01:58:45.033Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T01:58:58.419Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T01:58:58.423Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T01:58:58.473Z"}
+{"level":"error","message":"Uncaught Exception: port is not defined","stack":"ReferenceError: port is not defined\n    at Server.<anonymous> (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:641:29)\n    at Server.emit (node:events:518:28)\n    at emitErrorNT (node:net:1973:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2025-04-13T01:58:58.479Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T01:58:58.481Z"}
+{"level":"warn","message":"404: GET /api/transactions/1","timestamp":"2025-04-13T01:59:17.177Z"}
+{"level":"info","message":"GET /api/transactions/1 404 9.853 ms - 1022","timestamp":"2025-04-13T01:59:17.191Z"}
+{"level":"info","message":"GET /api/transactions/1 - 16.05ms","timestamp":"2025-04-13T01:59:17.192Z"}
+{"level":"warn","message":"404: GET /api/transactions/1","timestamp":"2025-04-13T01:59:17.198Z"}
+{"level":"info","message":"GET /api/transactions/1 404 2.634 ms - 1022","timestamp":"2025-04-13T01:59:17.200Z"}
+{"level":"info","message":"GET /api/transactions/1 - 4.12ms","timestamp":"2025-04-13T01:59:17.201Z"}
+{"level":"warn","message":"404: GET /api/transactions/1","timestamp":"2025-04-13T01:59:28.393Z"}
+{"level":"info","message":"GET /api/transactions/1 404 1.898 ms - 1022","timestamp":"2025-04-13T01:59:28.395Z"}
+{"level":"info","message":"GET /api/transactions/1 - 3.50ms","timestamp":"2025-04-13T01:59:28.396Z"}
+{"level":"warn","message":"404: GET /api/transactions/1","timestamp":"2025-04-13T01:59:28.401Z"}
+{"level":"info","message":"GET /api/transactions/1 404 1.489 ms - 1022","timestamp":"2025-04-13T01:59:28.403Z"}
+{"level":"info","message":"GET /api/transactions/1 - 4.76ms","timestamp":"2025-04-13T01:59:28.405Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:00:27.403Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:00:27.408Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:00:27.489Z"}
+{"level":"error","message":"Error adding mock data: Schema hasn't been registered for model \"Transaction\".\nUse mongoose.model(name, schema)","stack":"MissingSchemaError: Schema hasn't been registered for model \"Transaction\".\nUse mongoose.model(name, schema)\n    at Mongoose.model (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\index.js:544:13)\n    at addMockData (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:671:34)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:602:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-04-13T02:00:27.491Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T02:00:27.498Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T02:00:27.499Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T02:00:27.500Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T02:00:27.501Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T02:00:27.502Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T02:00:27.503Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T02:00:27.504Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T02:00:27.505Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T02:00:27.506Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:19:15.678Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:19:15.689Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:19:15.829Z"}
+{"level":"error","message":"Error adding mock data: Schema hasn't been registered for model \"Transaction\".\nUse mongoose.model(name, schema)","stack":"MissingSchemaError: Schema hasn't been registered for model \"Transaction\".\nUse mongoose.model(name, schema)\n    at Mongoose.model (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\index.js:544:13)\n    at addMockData (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:671:34)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:602:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-04-13T02:19:15.832Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T02:19:15.845Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T02:19:15.846Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T02:19:15.847Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T02:19:15.848Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T02:19:15.848Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T02:19:15.850Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T02:19:15.850Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T02:19:15.851Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T02:19:15.851Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:20:26.298Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:20:26.303Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:20:26.360Z"}
+{"level":"info","message":"User not found","timestamp":"2025-04-13T02:20:26.392Z"}
+{"level":"error","message":"Uncaught Exception: port is not defined","stack":"ReferenceError: port is not defined\n    at Server.<anonymous> (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:658:29)\n    at Server.emit (node:events:518:28)\n    at emitErrorNT (node:net:1973:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2025-04-13T02:20:26.396Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T02:20:26.396Z"}
+{"level":"warn","message":"⚠️ MongoDB disconnected","timestamp":"2025-04-13T02:20:26.406Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:20:33.972Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:20:33.975Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:20:34.022Z"}
+{"level":"info","message":"User not found","timestamp":"2025-04-13T02:20:34.050Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:20:56.715Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:20:56.719Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:20:56.764Z"}
+{"level":"info","message":"User not found","timestamp":"2025-04-13T02:20:56.794Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:22:40.940Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:22:40.944Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:22:41.022Z"}
+{"_message":"User validation failed","errors":{"password":{"kind":"minlength","message":"Path `password` (`12345`) is shorter than the minimum allowed length (6).","name":"ValidatorError","path":"password","properties":{"message":"Path `password` (`12345`) is shorter than the minimum allowed length (6).","minlength":6,"path":"password","type":"minlength","value":"12345"},"value":"12345"}},"level":"error","message":"Error adding mock data: User validation failed: password: Path `password` (`12345`) is shorter than the minimum allowed length (6).","stack":"ValidationError: User validation failed: password: Path `password` (`12345`) is shorter than the minimum allowed length (6).\n    at Document.invalidate (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\document.js:3219:32)\n    at C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\document.js:3012:17\n    at C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-04-13T02:22:41.071Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:24:42.307Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:24:42.311Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:24:42.382Z"}
+{"_message":"User validation failed","errors":{"password":{"kind":"minlength","message":"Path `password` (`12345`) is shorter than the minimum allowed length (6).","name":"ValidatorError","path":"password","properties":{"message":"Path `password` (`12345`) is shorter than the minimum allowed length (6).","minlength":6,"path":"password","type":"minlength","value":"12345"},"value":"12345"}},"level":"error","message":"Error adding mock data: User validation failed: password: Path `password` (`12345`) is shorter than the minimum allowed length (6).","stack":"ValidationError: User validation failed: password: Path `password` (`12345`) is shorter than the minimum allowed length (6).\n    at Document.invalidate (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\document.js:3219:32)\n    at C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\document.js:3012:17\n    at C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-04-13T02:24:42.436Z"}
+{"level":"info","message":"Port 5000 is already in use. Trying port 50001","timestamp":"2025-04-13T02:24:42.440Z"}
+{"level":"info","message":"Server running on port 50001","timestamp":"2025-04-13T02:24:42.442Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:27:12.699Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:27:12.702Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:27:12.750Z"}
+{"_message":"User validation failed","errors":{"password":{"kind":"minlength","message":"Path `password` (`12345`) is shorter than the minimum allowed length (6).","name":"ValidatorError","path":"password","properties":{"message":"Path `password` (`12345`) is shorter than the minimum allowed length (6).","minlength":6,"path":"password","type":"minlength","value":"12345"},"value":"12345"}},"level":"error","message":"Error adding mock data: User validation failed: password: Path `password` (`12345`) is shorter than the minimum allowed length (6).","stack":"ValidationError: User validation failed: password: Path `password` (`12345`) is shorter than the minimum allowed length (6).\n    at Document.invalidate (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\document.js:3219:32)\n    at C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\document.js:3012:17\n    at C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","timestamp":"2025-04-13T02:27:12.804Z"}
+{"level":"info","message":"Port 5000 is already in use. Trying port 50001","timestamp":"2025-04-13T02:27:12.808Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::50001","port":50001,"stack":"Error: listen EADDRINUSE: address already in use :::50001\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at Server.<anonymous> (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:659:13)\n    at Server.emit (node:events:518:28)\n    at emitErrorNT (node:net:1973:8)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","syscall":"listen","timestamp":"2025-04-13T02:27:12.810Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T02:27:12.811Z"}
+{"level":"warn","message":"⚠️ MongoDB disconnected","timestamp":"2025-04-13T02:27:12.823Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:31:24.496Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:31:24.502Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:31:24.607Z"}
+{"address":"::","code":"EADDRINUSE","errno":-4091,"level":"error","message":"Uncaught Exception: listen EADDRINUSE: address already in use :::5000","port":5000,"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n    at listenInCluster (node:net:1994:12)\n    at Server.listen (node:net:2099:7)\n    at Function.listen (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\node_modules\\express\\lib\\application.js:635:24)\n    at startServer (C:\\Users\\samar\\OneDrive\\Desktop\\yyy\\server.js:709:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","syscall":"listen","timestamp":"2025-04-13T02:31:24.938Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T02:31:24.940Z"}
+{"level":"info","message":"✅ Environment variables validated successfully","timestamp":"2025-04-13T02:43:32.557Z"}
+{"level":"info","message":"🔄 Attempting MongoDB connection (Attempt 1/5)","timestamp":"2025-04-13T02:43:32.562Z"}
+{"level":"info","message":"✅ MongoDB connected successfully","timestamp":"2025-04-13T02:43:32.667Z"}
+{"level":"info","message":"Mock data added successfully","timestamp":"2025-04-13T02:43:32.836Z"}
+{"level":"info","message":"\n🚀 Server Status:","timestamp":"2025-04-13T02:43:32.841Z"}
+{"level":"info","message":"----------------","timestamp":"2025-04-13T02:43:32.842Z"}
+{"level":"info","message":"📡 Server running on port 5000","timestamp":"2025-04-13T02:43:32.843Z"}
+{"level":"info","message":"🌐 API endpoints available at http://localhost:5000/api","timestamp":"2025-04-13T02:43:32.843Z"}
+{"level":"info","message":"📚 Documentation available at http://localhost:5000/api-docs","timestamp":"2025-04-13T02:43:32.844Z"}
+{"level":"info","message":"🔗 Client URL: http://localhost:3000","timestamp":"2025-04-13T02:43:32.844Z"}
+{"level":"info","message":"💾 Database: Connected","timestamp":"2025-04-13T02:43:32.845Z"}
+{"level":"info","message":"⚙️ Environment: development","timestamp":"2025-04-13T02:43:32.845Z"}
+{"level":"info","message":"----------------\n","timestamp":"2025-04-13T02:43:32.845Z"}
+{"level":"warn","message":"404: GET /api","timestamp":"2025-04-13T02:43:39.247Z"}
+{"level":"info","message":"GET /api 404 17.520 ms - 1524","timestamp":"2025-04-13T02:43:39.273Z"}
+{"level":"info","message":"GET /api - 29.92ms","timestamp":"2025-04-13T02:43:39.275Z"}
+{"level":"warn","message":"404: GET /favicon.ico","timestamp":"2025-04-13T02:43:39.608Z"}
+{"level":"info","message":"GET /favicon.ico 404 3.758 ms - 1418","timestamp":"2025-04-13T02:43:39.612Z"}
+{"level":"info","message":"GET /favicon.ico - 6.04ms","timestamp":"2025-04-13T02:43:39.613Z"}
+{"level":"info","message":"\n⚠️ Initiating graceful shutdown...","timestamp":"2025-04-13T02:43:47.683Z"}
+{"level":"warn","message":"⚠️ MongoDB disconnected","timestamp":"2025-04-13T02:43:47.704Z"}
